@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Fokczyński</h1>
-<h3 align="center">A Student of Information Technology at the Wrocław University of Science and Technology</h3>
+<h3 align="center">Software Engineer at Volvo Group</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
