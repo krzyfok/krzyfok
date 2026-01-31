@@ -16,5 +16,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Krzyfok&icon=0&color=0)](https://visitcount.itsvg.in)
-![Leetcode Stats](https://leetcard.krzyfok/Krzyfok)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Krzyfok)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
