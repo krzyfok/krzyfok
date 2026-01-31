@@ -1,5 +1,7 @@
 # 💫 About Me:
-💼 **Software Engineer at Volvo Group** and 🎓 **recent graduate in Computer Engineering** from Wrocław University of Science and Technology.  <br>⚙️ I work with **RPG** and **CL** on the backend, and **React** with **TypeScript** on the frontend, focusing on building **reliable** and **maintainable full-stack applications** 🚀.<br>
+💼 **Software Engineer at Volvo Group** and 🎓 **recent graduate in Computer Engineering** from Wrocław University of Science and Technology.  
+⚙️ I work on the backend with **RPG**, **CL**, and **IBM DB2 / SQL**, and on the frontend with **React** and **TypeScript**, focusing on building **reliable** and **maintainable full-stack applications** 🚀.
+
 
 
 ## 🌐 Socials:
